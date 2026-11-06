@@ -1,7 +1,3 @@
-// experimental scratch project autosniper
-// this script is supposed to be run on your browser's console
-// you need to be on Scratch's website (scratch.mit.edu, api.scratch.mit.edu, project.scratch.mit.edu, etc.) to make this script work
-
 target   = 1410000000; // target
 start    = -891; // when you start
 projects = 6; // amount of projects to create
